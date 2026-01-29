@@ -237,7 +237,7 @@ When token expires, API returns:
 I'm Hamad, a Microsoft 365 & Power Platform consultant specializing in Graph API integrations, SharePoint solutions, and enterprise automation.
 
 - 🌐 [hamad365.com](https://hamad365.com)
-- 💼 [Upwork](https://www.upwork.com/freelancers/~yourprofile)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01f28bdcd32df9fe01)
 - 📧 h@hamad365.com
 
 ---
